@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="assets/banner.png" alt="bulus-amazon-skill" width="100%"> -->
+<img src="assets/banner.png" alt="bulus-amazon-skill" width="100%">
 
 # 🛒 Bulus Amazon Skill
 
